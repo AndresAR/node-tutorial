@@ -1,7 +1,8 @@
 # Ejercicios básicos
+
+# 01 Hola Mundo
 - Uso de template Literales
--- Ejecutar: node app
 - Funciones
--- Ejecutar: node app2
 - Ciclos de Eventos
--- Ejecutar: node app3
+# 02
+# 03
