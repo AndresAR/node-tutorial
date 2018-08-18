@@ -13,7 +13,5 @@
 - JavaScript & NodeJS Snippets (https://packagecontrol.io/packages/JavaScript%20&%20NodeJS%20Snippets)
 
 # Tabla de Contenidos
-+ 1
-	+ Hola Mundo
-+ 2
-	+ Fundamentos
+- 1.- Hola Mundo
+- 2.- Fundamentos
