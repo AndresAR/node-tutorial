@@ -21,3 +21,4 @@
   + Comparación de LET y VAR
   + Template literales
   + Destructuración de objetos
+  + Funciones de Flecha

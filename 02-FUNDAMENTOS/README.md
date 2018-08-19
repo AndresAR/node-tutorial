@@ -11,5 +11,5 @@
 	+ Destructuración de Objetos
 	+ Ejecutar: nodemon destructuracion
 + funcion-flecha.js
-	+
+	+ Función de flecha
 	+ Ejecutar: nodemon funcion-flecha
