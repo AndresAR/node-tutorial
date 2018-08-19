@@ -7,3 +7,9 @@
 + template-string.js 
 	+ Template literales
 	+ Ejecutar: nodemon template-string
++ destructuracion.js
+	+ Destructuración de Objetos
+	+ Ejecutar: nodemon destructuracion
++ funcion-flecha.js
+	+
+	+ Ejecutar: nodemon funcion-flecha

@@ -20,3 +20,4 @@
 + 2.- Fundamentos
   + Comparación de LET y VAR
   + Template literales
+  + Destructuración de objetos
