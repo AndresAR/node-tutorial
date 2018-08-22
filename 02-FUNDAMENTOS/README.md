@@ -13,3 +13,9 @@
 + funcion-flecha.js
 	+ Función de flecha
 	+ Ejecutar: nodemon funcion-flecha
++ callback.js
+	+ Callbacks
+	+ Ejecutar: nodemon callback
++ callback2.js
+	+ Problemas comunes con callback
+	+ Ejecutar: nodemon callback2
